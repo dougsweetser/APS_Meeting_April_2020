@@ -1,0 +1,8 @@
+site_name: April APS Meeting 2020, Doug Sweetser
+
+nav:
+    - Home: index.md
+    - Abstracts: Abstracts/abstracts
+    - Space-time Diversiy: diversity/diversity.md
+    - CHSH Inequality: CHSH/CHSH.md
+    - Gravity in Energy-momentum: gravity/gravity.md
