@@ -1,9 +1,9 @@
 # Special Relativity in Space-Time and Gravity in its Tangent Space Energy-Momentum
 
-Talk at the virtual April APS Meeting, 2020. Approximately 20 people attended.
+A 24' talk for the virtual April APS Meeting, 2020. Approximately 20 people attended.
 
 <div class="video-wrapper">
-  <iframe width="640" height="360" src="https://www.youtube.com/embed/" frameborder="0" allowfullscreen></iframe>
+  <iframe width="640" height="360" src="https://www.youtube.com/embed/jIe4vQUVefM" frameborder="0" allowfullscreen></iframe>
 </div>
 
 [15 page PDF](Gravity_in_energy-momentum_v2.pdf)

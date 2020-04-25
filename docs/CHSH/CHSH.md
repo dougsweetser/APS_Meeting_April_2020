@@ -8,6 +8,10 @@ sweetser@alum.mit.edu
 
 [As a PDF](CHSH_inequality_Qs.pdf)
 
+<div class="video-wrapper">
+  <iframe width="640" height="360" src="https://www.youtube.com/embed/pfH8HfBQ6L8" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ![](CHSH-1000.png)
 ![](CHSH-1001.png)
 ![](CHSH-1002.png)
