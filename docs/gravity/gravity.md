@@ -1,14 +1,14 @@
 # Special Relativity in Space-Time and Gravity in its Tangent Space Energy-Momentum
 
-A 24' talk for the virtual April APS Meeting, 2020. Approximately 20 people attended.
+## 24' Talk
 
 <div class="video-wrapper">
   <iframe width="640" height="360" src="https://www.youtube.com/embed/jIe4vQUVefM" frameborder="0" allowfullscreen></iframe>
 </div>
 
-[15 page PDF](Gravity_in_energy-momentum_v2.pdf)
+## [15 page PDF](Gravity_in_energy-momentum_v2.pdf)
 
-Slides
+## 15 Slides
 
 ![](gravity-1000.png)
 ![](gravity-1001.png)
@@ -26,5 +26,12 @@ Slides
 ![](gravity-1013.png)
 ![](gravity-1014.png)
 
+<br>
+<br>
+<br>
+
 Doug Sweetser
+
 sweetser@alum.mit.edu
+
+All rights reserved, 2020

@@ -1,16 +1,20 @@
 # Quaternion Series QM Proof of CHSH inequalites
 
-April APS Meeting, 2020
-by Doug Sweetser
-sweetser@alum.mit.edu
+Poster for the April APS Meeting, 2020
 
-[As a Jupyter notebook](CHSH_inequality_Qs.ipynb)
+Doug Sweetser
 
-[As a PDF](CHSH_inequality_Qs.pdf)
+## [A Jupyter notebook](CHSH_inequality_Qs.ipynb)
+
+## [9 page PDF](CHSH_inequality_Qs.pdf)
+
+## 5' Video
 
 <div class="video-wrapper">
   <iframe width="640" height="360" src="https://www.youtube.com/embed/pfH8HfBQ6L8" frameborder="0" allowfullscreen></iframe>
 </div>
+
+## 9 Slides
 
 ![](CHSH-1000.png)
 ![](CHSH-1001.png)
@@ -22,3 +26,12 @@ sweetser@alum.mit.edu
 ![](CHSH-1007.png)
 ![](CHSH-1008.png)
 ![](CHSH-1009.png)
+
+<br>
+<br>
+<br>
+Doug Sweetser
+
+sweetser@alum.mit.edu
+
+All rights reserved, 2020

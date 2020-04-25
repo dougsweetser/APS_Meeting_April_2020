@@ -2,14 +2,18 @@
 
 Poster for the April APS Meeting, 2020
 
-5 minute YouTube video
+Doug Sweetser
+
+## 5' Video  
+
 <div class="video-wrapper">
   <iframe width="640" height="360" src="https://www.youtube.com/embed/2LsomIZH1Ao" frameborder="0" allowfullscreen></iframe>
 </div>
 
-[8 page PDF](pdfs/diversities_in_times_relationship_to_space.pdf)
+## [8 page PDF](pdfs/diversities_in_times_relationship_to_space.pdf)
 
-8 slides.
+## 8 slides  
+
 ![](diversity-1000.png)
 ![](diversity-1001.png)
 ![](diversity-1002.png)
@@ -19,5 +23,11 @@ Poster for the April APS Meeting, 2020
 ![](diversity-1006.png)
 ![](diversity-1007.png)
 
+<br>
+<br>
+<br>
 Doug Sweetser
+
 sweetser@alum.mit.edu
+
+All rights reserved, 2020

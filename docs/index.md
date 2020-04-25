@@ -1,5 +1,5 @@
-# April APS Meeting - Doug Sweetser
-# Two Posters and a Talk
+# April APS Meeting 2020
+# A Talk and Two Posters by Doug Sweetser
 
 ## Abstracts
 
@@ -36,3 +36,12 @@
 ### [Diversity of Time's Relationship to Space](pdfs/diversity.pdf)
 
 ### [The CHSH Inequality](pdfs/CHSH_inequality_Qs.pdf)
+
+<br>
+<br>
+<br>
+Doug Sweetser
+
+sweetser@alum.mit.edu
+
+All rights reserved, 2020
